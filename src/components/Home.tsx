@@ -17,7 +17,7 @@ export const Home: React.FC<HomeProps> = (props) => {
                     <h1 className="text-black text-center mb-9 text-7xl font-bold ">
                       {each.brand}
                     </h1>
-                    <h2 className="text-black text-center my-28 text-2xl font-sans  ">
+                    <h2 className="text-black text-center mb-28 text-2xl font-sans  ">
                       {each.history}
                     </h2>
                   </div>
